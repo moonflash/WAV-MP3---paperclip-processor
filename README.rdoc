@@ -36,6 +36,8 @@ Inside Model include:
                     :processors => [:wav_mp3]
 
 Plugin will upload and save song.wav file & convert and save song.mp3 file...
+=== be carefull
+it wont work with files that have special characters. Keep file-names simple an web friendly... or fork the GEM
 
 =Params
 
