@@ -4,7 +4,7 @@ require "wav-mp3/version"
 
 Gem::Specification.new do |s|
   s.name        = "wav-mp3"
-  s.version     = WavMp3::Paperclip::Processor::VERSION
+  s.version     = Wavmp3::Paperclip::Processor::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["moonFlash, Mojmir Novakovic"]
   s.email       = ["moonflash.as3@gmail.com"]
